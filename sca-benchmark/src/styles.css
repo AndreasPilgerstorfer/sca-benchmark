@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Be Vietnam Pro', sans-serif;
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+
+div {
+  background-color: darkblue;
+  padding: 20px;
+}
+
+h1 {
+  color: white;
+  font-size: 36px;
+}
+
